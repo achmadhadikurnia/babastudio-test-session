@@ -8,4 +8,8 @@ Berikut saya lampirkan cara penginstalan
 - konfigurasikan koneksi database di file /application/config/database.php
 - selesai
 
-Terimakasih
+## Screencast
+
+Silahkan unduh dan mainkan file video.mp4
+
+## Terimakasih
