@@ -1,15 +1,17 @@
-## Babastudio Test Session
+# Babastudio Test Session
 
 Berikut saya lampirkan cara penginstalan
 
-- buat database bernama "database"
-- import database
-- extract data pada server
-- konfigurasikan koneksi database di file /application/config/database.php
-- selesai
+- Buat database bernama "database"
+- Import database
+- Extract data pada server
+- Konfigurasikan koneksi database di file /application/config/database.php
+- Selesai
 
 ## Screencast
 
 Silahkan unduh dan mainkan file video.mp4
 
 ## Terimakasih
+
+Terimakasih dan semoga dapat diterima
