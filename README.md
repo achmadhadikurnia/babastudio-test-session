@@ -1,4 +1,4 @@
-# Babastudio Test Session
+# Baba Studio Test Session
 
 Berikut saya lampirkan cara penginstalan
 
